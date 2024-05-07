@@ -10,3 +10,18 @@ Create a SCss folder with three files
     form
     card
 import SCss file in style.css file
+
+Create page folder structure
+    pages
+    shared
+        layouts
+        components
+Create pages components
+    Home
+    About
+    Works
+    Contact us
+    Gallery
+Create routes
+
+
