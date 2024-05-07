@@ -24,4 +24,5 @@ Create pages components
     Gallery
 Create routes
 
+Create navbar component
 
